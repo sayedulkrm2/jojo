@@ -1,0 +1,44 @@
+body,html{
+    height: 100%;
+    width: 100%;
+}
+body{
+    background-image: url(modern-futuristic-sci-fi-background.jpg);
+    background-size: cover;
+
+}
+.text{
+
+    color: white;
+    text-align: center;
+    font-size: 5em;
+    margin: 0;
+
+}
+
+
+
+.btn{
+    margin: 0% 50%;
+
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    text-transform:uppercase;
+    color: white;
+    background-color: #c60548;
+    border-color: #c60548;
+    border-radius: 300px;
+}
+.btn:hover{
+    color: white;
+    background-color: #000000;
+    border-width: 5px;
+    
+}
+.btn-xl{
+     padding: 1rem 2rem; 
+     position: relative;
+}
+
+
