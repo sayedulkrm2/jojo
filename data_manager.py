@@ -1,10 +1,5 @@
-# data_manager.py
-
 def example_function():
-    print("This line ends with a space character!")  # Corrected formatting, removed the trailing space
-
-# data_manager.py
-
+    print("This line ends with a space character!")  # This line has an extra space at the end.
 def example_function():
-    """This function prints a message to indicate trailing spaces."""
+    """A function that prints a statement about extra space."""
     print("This line ends with a space character!")
