@@ -1,5 +1,5 @@
 def example_function():
     print("This line ends with a space character!")  # This line has an extra space at the end.
 def example_function():
-    """This function prints a message indicating a trailing space."""
+    """This function prints a message indicating a coding issue."""
     print("This line ends with a space character!")
