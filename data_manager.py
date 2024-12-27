@@ -1,4 +1,9 @@
+# data_manager.py
+
 def example_function():
     print("This line ends with a space character!")  # This line has an extra space at the end.
+# data_manager.py
+
+
 def example_function():
-    print("This line is too long and should be broken into multiple lines for better readability across different editors and viewers.")
+    print("This line demonstrates proper line length guidelines and avoids exceeding limits set for better readability.")
