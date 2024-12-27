@@ -1,4 +1,9 @@
+# data_manager.py
+
 def example_function():
-    print("This line ends with a space character!")  # This line has an extra space at the end.
+    print('This line does not have an extra space at the end!')  # This line has been fixed.
+# data_manager.py
+
 def example_function():
-    print("This line ends with a space character!")  # This line has an extra space at the end.
+    """This function prints a message."
+    print('This line does not have an extra space at the end!')  # This line has been fixed.
