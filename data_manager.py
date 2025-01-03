@@ -1,13 +1,4 @@
-# Updated content for the Python file
-
-updated_file_content = error_details + """# data_manager.py
+# data_manager.py
 
 def example_function():
-    print("This line does not end with a space character!")  # This line is now clean of trailing whitespace.
-"""
-
-# Write the updated content to the Python file
-with open(python_file_path, 'w') as file:
-    file.write(updated_file_content)
-
-python_file_path
+    print("This line ends with a space character!")  # This line has an extra space at the end.
