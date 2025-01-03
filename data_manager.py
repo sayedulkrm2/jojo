@@ -5,5 +5,5 @@ def example_function():
 # data_manager.py
 
 def example_function():
-    """This function prints a message indicating an issue with extra space at the end."""
-    print("This line ends with a space character!")  # This line has an extra space at the end.
+    """This function prints a message indicating that it ends with a space character."""
+    print("This line ends with a space character!")
