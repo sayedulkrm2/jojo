@@ -1,4 +1,4 @@
 def example_function():
-    print("This line ends with a space character!")  # This line has an extra space at the end.
+    print("This line ends with a space character!")  # Fixed: Removed trailing space from the line.
 def example_function():
-    print("This line is properly wrapped to avoid exceeding the character limit.")  # Example wrapped line.
+    print("This line is within proper length and does not exceed coding standards! This is an example of a safe and maintainable coding practice.")
