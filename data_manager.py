@@ -1,8 +1,10 @@
-# data_manager.py
+# Updated content for the Python file
+
 
 def example_function():
-    print("This line ends with a space character!")  # Removed the extra space at the end.
-# data_manager.py
+    print("This line ends with a space character!")  # This line has an extra space at the end.
+# Updated content for the Python file
+
 
 def example_function():
-    print("This is an example of how to write a cleaner and more maintainable print statement that does not exceed line length standards.")  # Shortened the line to comply with line length requirements.
+    print("This is a sample line of code that has been adjusted to ensure it does not exceed the maximum recommended length.")
