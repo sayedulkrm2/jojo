@@ -1,4 +1,4 @@
 def example_function():
-    print("This line ends with a space character!")  # Fixed by removing the trailing space.
+    print("This line ends with a space character!")  # Remove the extra space at the end.
 def example_function():
-    print("This line has been designed to demonstrate adherence to good coding practices, including avoiding long lines.")  # Fixed by shortening the length of the line.
+    print("This is an example of a line that is designed to be within the recommended length limit for better readability.")
