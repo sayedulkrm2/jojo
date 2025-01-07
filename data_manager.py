@@ -1,13 +1,4 @@
 def example_function():
     print("This line ends with a space character!")  # This line has an extra space at the end.
-error_details = """# Error Details:
-# {\
-#     \"src_id\": \"31906\",\
-#     \"sname\": \"data_manager.py\",\
-#     \"spath\": \"/\",\
-#     \"rule_Id\": \"56110008\",\
-#     \"rule_name\": \"Code line should not end with space character\",\
-#     \"line_num\": 45,\
-#     \"priority_code\": \"1\",\
-#     \"priority_name\": \"Critical\"\
-# }\"""
+def example_function():
+    print("This line is a very long line that exceeds the recommended length for code lines and should be broken into multiple lines for better readability and maintainability.")
