@@ -1,4 +1,4 @@
 def example_function():
-    print("This line ends with a space character!")  # Remove the space at the end of the print statement.
+    print("This line ends with a space character!")  # This line has an extra space at the end.
 def example_function():
-    print("This line exceeds the maximum allowed line length and should be split across lines for better readability.")
+    print("This line intentionally ends without a trailing space character!")  # No extra spaces.
