@@ -1,4 +1,6 @@
 def example_function():
-    print("This line ends with a space character!")  # This line has an extra space at the end.
+    print("This line ends with a space character!")  # This line has no extra space at the end.
+# data_manager.py
+
 def example_function():
-    print("This line is now refactored to avoid exceeding the length limit allowed by style guides.")
+    print("This line ends with a space character!")
