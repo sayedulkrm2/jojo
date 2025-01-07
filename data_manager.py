@@ -1,5 +1,8 @@
+# data_manager.py
+
 def example_function():
     print("This line ends with a space character!")  # This line has an extra space at the end.
+# data_manager.py
+
 def example_function():
-    print("This line ends with a space character!")  # This line has an extra space at the end.
-    # This is an example of a long comment that exceeds the recommended line length and needs to be broken up for clarity.
+    print("This line ends with a space character!\nThis function demonstrates a coding standard violation due to exceeding line length limit,\nwhich should be broken down into manageable lines for better readability.")
