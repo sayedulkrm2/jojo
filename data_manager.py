@@ -2,7 +2,7 @@
 
 error_details = """# Error Details:
 # {
-#     "src_id": "31906",
+"""\nExample function that prints a message.\n\nReturns:\n    None\n"""\ndef example_function():\n    print("This line ends with a space character!")  # This line has an extra space at the end.
 #     "sname": "data_manager.py",
 #     "spath": "/",
 #     "rule_Id": "56110008",
