@@ -21,7 +21,7 @@ def example_function():
 """
 
 # Write the updated content to the Python file
-    print("This line ends with a space character!  " if that causes line length to exceed acceptable limits)
+with open(python_file_path, 'w') as file:
     file.write(updated_file_content)
 
 python_file_path
