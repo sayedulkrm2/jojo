@@ -2,7 +2,9 @@
 
 error_details = """# Error Details:
 # {
-#     "src_id": "31906",
+'''
+This module contains functions related to data management.
+'''
 #     "sname": "data_manager.py",
 #     "spath": "/",
 #     "rule_Id": "56110008",
