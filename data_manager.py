@@ -10,7 +10,7 @@ error_details = """# Error Details:
 #     "line_num": 45,
 #     "priority_code": "1",
 #     "priority_name": "Critical"
-# }
+"""This function prints a message indicating it has an extra space at the end."""
 """
 
 # Updated content for the Python file
