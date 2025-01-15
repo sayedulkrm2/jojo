@@ -2,7 +2,12 @@
 
 error_details = """# Error Details:
 # {
-#     "src_id": "31906",
+"""
+This module provides functionality for managing data in the application.
+
+Functions:
+    example_function(): Prints a message indicating an extra space at the end of the line.
+"""
 #     "sname": "data_manager.py",
 #     "spath": "/",
 #     "rule_Id": "56110008",
