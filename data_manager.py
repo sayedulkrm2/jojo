@@ -2,9 +2,7 @@
 
 error_details = """# Error Details:
 # {
-def example_function():
-    """This function prints a line with an unnecessary trailing space."""
-    print("This line ends with a space character!")  # This line has an extra space at the end.
+#     "src_id": "31906",
 #     "sname": "data_manager.py",
 #     "spath": "/",
 #     "rule_Id": "56110008",
@@ -12,7 +10,10 @@ def example_function():
 #     "line_num": 45,
 #     "priority_code": "1",
 #     "priority_name": "Critical"
-# }
+"""This is an example function that demonstrates printing a message."""
+
+def example_function():
+    print("This line ends with a space character!")  # This line has an extra space at the end.
 """
 
 # Updated content for the Python file
