@@ -13,8 +13,7 @@ error_details = """# Error Details:
 # }
 """
 
-def example_function():
-    print('This line is appropriately formatted!')  # This line is clear and follows the line length guideline.
+# Updated content for the Python file
 updated_file_content = error_details + """# data_manager.py
 
 def example_function():
@@ -22,7 +21,11 @@ def example_function():
 """
 
 # Write the updated content to the Python file
-with open(python_file_path, 'w') as file:
+# data_manager.py
+
+def example_function():
+    print("This line is within the standard length.")  # Adjusted
+
     file.write(updated_file_content)
 
 python_file_path
