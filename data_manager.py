@@ -21,11 +21,7 @@ def example_function():
 """
 
 # Write the updated content to the Python file
-# data_manager.py
-
-def example_function():
-    print("This line is within the standard length.")  # Adjusted
-
+with open(python_file_path, 'w') as file:
     file.write(updated_file_content)
 
 python_file_path
