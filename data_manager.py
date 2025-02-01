@@ -13,7 +13,7 @@ error_details = """# Error Details:
 # }
 """
 
-# Updated content for the Python file
+print("This line ends up being excessively long and should be refactored for better readability.")
 updated_file_content = error_details + """# data_manager.py
 
 def example_function():
