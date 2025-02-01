@@ -2,9 +2,7 @@
 
 error_details = """# Error Details:
 # {
-def example_function():
-    """This function demonstrates a print statement with an unnecessary space."""
-    print("This line ends with a space character!")  # This line has an extra space at the end.
+#     "src_id": "31906",
 #     "sname": "data_manager.py",
 #     "spath": "/",
 #     "rule_Id": "56110008",
@@ -20,7 +18,9 @@ updated_file_content = error_details + """# data_manager.py
 
 def example_function():
     print("This line ends with a space character!")  # This line has an extra space at the end. 
-"""
+def example_function():
+    """This function prints a string with a trailing space."""
+    print("This line ends with a space character!")  # This line has an extra space at the end.
 
 # Write the updated content to the Python file
 with open(python_file_path, 'w') as file:
