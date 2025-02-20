@@ -2,7 +2,9 @@
 
 error_details = """# Error Details:
 # {
-#     "src_id": "31906",
+"""This function demonstrates an example of printing a message."""
+def example_function():
+    print("This line ends with a space character!")  # This line has an extra space at the end.
 #     "sname": "data_manager.py",
 #     "spath": "/",
 #     "rule_Id": "56110008",
@@ -10,18 +12,28 @@ error_details = """# Error Details:
 #     "line_num": 45,
 #     "priority_code": "1",
 #     "priority_name": "Critical"
-# }
+def example_function():
+    """This function prints a message."""
+    print("This line ends with a space character!")  # This line has an extra space at the end.
 """
 
-# Updated content for the Python file
+# data_manager.py
+
+def example_function():
+    print("This line ends with a space character!")  # This line has an extra space at the end.
 updated_file_content = error_details + """# data_manager.py
 
 def example_function():
     print("This line ends with a space character!")  # This line has an extra space at the end. 
-"""
+def example_function():
+    """This function prints a message."""
+    print("This line ends with a space character!")  # This line has an extra space at the end.
 
 # Write the updated content to the Python file
-with open(python_file_path, 'w') as file:
+# data_manager.py
+
+def example_function():
+    print("This line ends with a space character!")  # This line has an extra space at the end.
     file.write(updated_file_content)
 
 python_file_path
